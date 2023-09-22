@@ -1,5 +1,5 @@
 services:
-    laravel.test:
+    laravel.sandbox:
         build:
             context: ./docker/local/8.2
             dockerfile: Dockerfile
